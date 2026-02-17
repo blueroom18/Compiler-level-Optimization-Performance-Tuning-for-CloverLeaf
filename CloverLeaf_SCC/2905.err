@@ -1,0 +1,10 @@
+ 
+Clover Version    1.300
+       MPI Version
+    OpenMP Version
+   Task Count     48
+ Thread Count:     2
+ 
+ Step       1 time   0.0000000 control    sound    timestep   1.93E-04       1,       1 x  1.63E-04 y  3.26E-04
+slurmstepd: error: *** JOB 2905 ON ae1u11a CANCELLED AT 2025-07-14T14:51:40 ***
+slurmstepd: error: *** STEP 2905.0 ON ae1u11a CANCELLED AT 2025-07-14T14:51:40 ***
